@@ -5,10 +5,10 @@ const timerDisplay = document.getElementById("timer");
 const messageDisplay = document.getElementById("message");
 
 const trashImages = [
-  "/images/bottle.png",
-  "/images/can.png",
-  "/images/paper.png",
-  "/images/trashbag.png"
+  "images/bottle.png",
+  "images/can.png",
+  "images/paper.png",
+  "images/trashbag.png"
 ];
 
 let score = 0;
