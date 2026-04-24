@@ -6,10 +6,10 @@ const startBtn = document.getElementById("start-btn");
 const messageDisplay = document.getElementById("message");
 
 const trashImages = [
-  "../images/can.png",
-  "../images/bottle.png",
-  "../images/paper.png",
-  "../images/trashbag.png"
+  "images/can.png",
+  "images/bottle.png",
+  "images/paper.png",
+  "images/trashbag.png"
 ];
 
 let score = 0;
